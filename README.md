@@ -71,7 +71,7 @@ Foi criado um volume Docker para armazenar os dados do banco MySQL. Esse volume 
 Para validar a persistência, os containers foram removidos utilizando `docker compose down` e iniciados novamente. Os dados permaneceram armazenados, comprovando o funcionamento do volume Docker.
 
 ![Persistência do volume](Imagens/04-persistencia-volume.png)
-
+gggggggg
 ---
 
 # 4. Network Inspect
